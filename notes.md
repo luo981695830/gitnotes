@@ -22,8 +22,8 @@
 - 'git clone':项目地址
 - 'cd':项目地址
 - 'vim notes.md'
-- 'git add *'
-- 'git commit -m "asdfasdf"
+- 'git add *//*表示添加所有文件 可以添加一个或多个文件'
+- 'git commit -m "asdfasdf"//提交时的备注信息"
 - 'git diff':查看提交了些什么
 - 'git log':查看提交历史
 - 'git pull':拉下来最新的代码"
